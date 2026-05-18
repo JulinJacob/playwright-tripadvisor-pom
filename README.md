@@ -1,7 +1,7 @@
 # Playwright Automation Framework (JavaScript + POM)
 
 ## Project Overview
-This project automates UI testing using Playwright with JavaScript and Page Object Model (POM).I created reusable values like application URLs into a separate utility file to improve maintainability and avoid hardcoded test data
+This project automates UI testing using Playwright with JavaScript and Page Object Model (POM).Created reusable values like application URLs into a separate utility file to improve maintainability and avoid hardcoded test data
 
 ---
 
